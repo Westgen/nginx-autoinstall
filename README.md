@@ -15,3 +15,6 @@ BROTLI-PAGESPEED-GEOIP-FANCYINDEX-CACHEPURGE-HEADERMOD-SSL
 - Init script for systemd (not provided by default)
 - Logrotate conf (not provided by default)
 - Block Nginx installation from APT using pinning, to prevent conflicts
+
+<h2>Optional modules/features</h2>
+
