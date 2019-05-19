@@ -8,13 +8,15 @@ BROTLI-PAGESPEED-GEOIP-FANCYINDEX-CACHEPURGE-HEADERMOD-SSL
 - Ubuntu 16.04 and later
 
 <h2>Features</h2>
-- Latest mainline or stable version, from source
-- Optional modules (see below)
-- Removed useless modules
-- Custom nginx.conf (default does not work)
-- Init script for systemd (not provided by default)
-- Logrotate conf (not provided by default)
-- Block Nginx installation from APT using pinning, to prevent conflicts
+<ul>
+<li> Latest mainline or stable version, from source
+<li> Optional modules (see below)
+<li> Removed useless modules
+<li> Custom nginx.conf (default does not work)
+<li> Init script for systemd (not provided by default)
+<li> Logrotate conf (not provided by default)
+<li> Block Nginx installation from APT using pinning, to prevent conflicts
+</ul>
 
 <h2>Optional modules/features</h2>
 
